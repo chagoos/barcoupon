@@ -1,6 +1,3 @@
-Here’s a simplified README in paragraph form, around 10–12 sentences:
-
----
 
 # Coupon Acceptance Analysis
 
